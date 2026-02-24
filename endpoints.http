@@ -1,0 +1,7 @@
+@baseUrl = http://localhost:6400
+
+### Health
+GET {{baseUrl}}/api/v1/health
+
+### List all Todos
+GET {{baseUrl}}
